@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/acounts-website/static/css/main.fd177488.css",
+    "main.js": "/acounts-website/static/js/main.786d5ee8.js",
+    "index.html": "/acounts-website/index.html",
+    "main.fd177488.css.map": "/acounts-website/static/css/main.fd177488.css.map",
+    "main.786d5ee8.js.map": "/acounts-website/static/js/main.786d5ee8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd177488.css",
+    "static/js/main.786d5ee8.js"
+  ]
+}
